@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Images on OTC ImageFactory</title>
+    <link>https://opentelekomcloud.github.io/imagefactory/images/</link>
+    <description>Recent content in Images on OTC ImageFactory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://opentelekomcloud.github.io/imagefactory/images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/centos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/centos/</guid>
+      <description>CentOS Images     getImages(&#34;CentOS&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/oracle/</guid>
+      <description>Oracle Linux Images     getImages(&#34;OEL&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/redhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/redhat/</guid>
+      <description>Red Hat Enterprise Linux Images Available RedHat Images We have dropped minor numbers for all distributions except SLES. This is because installing all maintenance updates for most distributions automatically implies moving to the next minor version &amp;ndash; there is no possibility to stay on an old minor version and still have full maintenance, as there are no parallel maintenance streams per major version. (The only exception is SLES, where old service packs are maintained in an own stream in parallel to the latest for a limited amount of time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/suse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/suse/</guid>
+      <description>SUSE Images     getImages(&#34;openSUSE&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/windows/</guid>
+      <description>Windows Images Windows Server Image Content The Windows Server Images for OTC are build based on the Microsoft Standard ISO images
+It is a default OS installation with:
+ System disk of min 40 GB Drivers for XEN, KVM, GPU (NVIDIA), BMS (Intel Chipset Drivers) RDP enabled latest Microsoft quality rollups and security patches timezone of OTC platform time synchronization with ntp server of OTC public service zone German and English keyboard Couldbase-Init agent installation and sysprep started  During server startup server configuraiton is finished:</description>
+    </item>
+    
+    <item>
+      <title>CoreOS Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/coreos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/coreos/</guid>
+      <description>CoreOS Images     getImages(&#34;CoreOS&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Debian Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/debian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/debian/</guid>
+      <description>Debian Images     getImages(&#34;Debian&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>EulerOS Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/euleros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/euleros/</guid>
+      <description>EulerOS Images     getImages(&#34;EulerOS&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Fedora Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/fedora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/fedora/</guid>
+      <description>Fedora Images     getImages(&#34;Fedora&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/</guid>
+      <description> Images    Debian Based Red Hat Based SUSE Based Others     Debian CentOS SUSE CoreOS   Kali Linux (beta) EulerOS  Fedora   Ubuntu Oracle Linux  Windows    Red Hat      Open Telekom Cloud OBS Image PGP Key  -----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v2 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 ERSUbi/rQrYK/ybtEA== =bOQk -----END PGP PUBLIC KEY BLOCK-----  </description>
+    </item>
+    
+    <item>
+      <title>Kali Linux Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/kali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/kali/</guid>
+      <description>Kali Linux Images     getImages(&#34;Kali&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/ubuntu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/ubuntu/</guid>
+      <description>Ubuntu Images     getImages(&#34;Ubuntu&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+  </channel>
+</rss>

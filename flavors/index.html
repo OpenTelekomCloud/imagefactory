@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <title>
+    Flavors - OTC ImageFactory</title>
+
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <link rel="canonical" href="https://opentelekomcloud.github.io/imagefactory/flavors/" />
+  <meta
+    name="description"
+    content="Flavors Common Flavors    Image / Flavor Normal,Compute, Memory optimized I Normal,Compute Memory optimized II, GP KVM Large Memory Disk intensive SAPHANA Large Memory      s1,c1,c2,m1 c3 m2, s2, m3, d3 e1 d1 e2 e3   Hypervisor Xen KVM KVM Xen Xen Xen KVM   Drivers xen=xen-classic or xen-pvops virtio virtio xen xen&#43;ixgbevf xen&#43;ixgbevf&#43;xen-scsi virtio   Flags __support_xen __support_kvm __support_kvm __support_largememory __support_diskintensive __support_xen_hana __support_largememory, ___support_kvm_hana             openSUSE 42."
+  /><meta name="robots" content="index, follow" /><meta content="#da532c" name="msapplication-TileColor">
+<meta name="msapplication-TileImage" content="/img/favicon/win8-tile-114x114.png">
+<meta name="msapplication-config" content="/img/favicon/ieconfig.xml">
+
+<link rel="apple-touch-icon" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-180x180.png">
+
+<link rel="icon" sizes="192x192" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/android-chrome-192x192.png">
+
+<link rel="icon" type="image/png" sizes="16x16" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon-96x96.png">
+<link rel="shortcut icon" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon.ico"><link rel="stylesheet" href="https://opentelekomcloud.github.io/imagefactory/css/main.css" />
+
+  <script src="https://opentelekomcloud.github.io/imagefactory/js/jquery-3.4.1.min.js"></script>
+  <script src="https://opentelekomcloud.github.io/imagefactory/js/telekom-html-components.bundle.min.js"></script></head>
+<body id="top" class="d-flex flex-column"><div class="brandbar">
+    <div class="container">
+        <div class="brand-logo">
+            <img alt="Telekom Logo" src="https://opentelekomcloud.github.io/imagefactory/img/dt-logo.svg">
+            <span class="sr-only">Telekom Logo</span>
+        </div>
+        <div class="brand-claim">
+            <img alt="Brand Claim" src="https://opentelekomcloud.github.io/imagefactory/img/dt-claim.svg">
+            <span class="sr-only">Brand Claim</span>
+        </div>
+    </div>
+</div>
+
+<header class="navbar navbar-expand brand-navbar">
+    <nav class="brand-navbar-container container">
+        <button aria-controls="DocsMenu" aria-expanded="false" aria-label="Toggle docs navigation"
+            class="btn btn-brandbar collapsed d-md-none" data-open="brandnav" data-target="#DocsMenu" type="button">
+            <svg class="navbar-nav-svg" focusable="false" height="26" viewbox="0 0 29 26" width="29"
+                xmlns="http://www.w3.org/2000/svg">
+                <title>Menu</title>
+                <path d="M5 8h17M5 13h17M5 18h17" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+                    stroke="currentColor"></path>
+            </svg>
+        </button>
+
+        <a class="navbar-brand d-none d-md-inline-block" href="https://opentelekomcloud.github.io/imagefactory/" title="Go Home">OTC ImageFactory</a>
+
+        <div class="navbar-nav-scroll brandnav brandnav-lvl-container-1" id="DocsMenu">
+            <ul class="brandnav-lvl-1 navbar-nav brand-navbar-nav flex-column flex-md-row"><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/images/">Images</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/flavors/">Flavors</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/repositories/">Repositories</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/releasenotes/">Release Notes</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://techblog.otc-service.com">TechBlog</a>
+                </li></ul>
+        </div>
+    </nav>
+</header>
+    <div class="container">
+        <div class="row my-4">
+            <div class="col-12">
+                <section id="content">
+
+<h1 id="flavors">Flavors</h1>
+
+<h2 id="common-flavors">Common Flavors</h2>
+
+<table>
+<thead>
+<tr>
+<th>Image / Flavor</th>
+<th align="center">Normal,Compute, Memory optimized I</th>
+<th align="center">Normal,Compute</th>
+<th align="center">Memory optimized II, GP KVM</th>
+<th align="center">Large Memory</th>
+<th align="center">Disk intensive</th>
+<th align="center">SAPHANA</th>
+<th align="center">Large Memory</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td align="center">s1,c1,c2,m1</td>
+<td align="center">c3</td>
+<td align="center">m2, s2, m3, d3</td>
+<td align="center">e1</td>
+<td align="center">d1</td>
+<td align="center">e2</td>
+<td align="center">e3</td>
+</tr>
+
+<tr>
+<td>Hypervisor</td>
+<td align="center">Xen</td>
+<td align="center">KVM</td>
+<td align="center">KVM</td>
+<td align="center">Xen</td>
+<td align="center">Xen</td>
+<td align="center">Xen</td>
+<td align="center">KVM</td>
+</tr>
+
+<tr>
+<td>Drivers</td>
+<td align="center">xen=xen-classic or xen-pvops</td>
+<td align="center">virtio</td>
+<td align="center">virtio</td>
+<td align="center">xen</td>
+<td align="center">xen+ixgbevf</td>
+<td align="center">xen+ixgbevf+xen-scsi</td>
+<td align="center">virtio</td>
+</tr>
+
+<tr>
+<td>Flags</td>
+<td align="center">__support_xen</td>
+<td align="center">__support_kvm</td>
+<td align="center">__support_kvm</td>
+<td align="center">__support_largememory</td>
+<td align="center">__support_diskintensive</td>
+<td align="center">__support_xen_hana</td>
+<td align="center">__support_largememory,  ___support_kvm_hana</td>
+</tr>
+
+<tr>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>openSUSE 42.x</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 6</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 7</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Debian</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Fedora</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 14.04</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 14.04</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 16.04</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 16.04</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 18.04</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES11 SP4</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP1</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP2</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center">x</td>
+</tr>
+
+<tr>
+<td>SLES12 SP3</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center">x</td>
+</tr>
+
+<tr>
+<td>Oracle 6</td>
+<td align="center"></td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 7</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 6</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 7</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Euler OS</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center"></td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2008 R2</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2012 R2</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2016</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2019</td>
+<td align="center"></td>
+<td align="center">OTC3.0 *</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="bare-metal-service">Bare Metal Service</h2>
+
+<table>
+<thead>
+<tr>
+<th>Image / Flavor</th>
+<th align="center">BareMetal/Ironic</th>
+<th align="center">BareMetal/High Perf</th>
+<th align="center">BareMetal GPGPU P100</th>
+<th align="center">BareMetal GPGPU V100</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td align="center">physical</td>
+<td align="center">physical.h2.large H2L</td>
+<td align="center">physical P1L</td>
+<td align="center">physical P2L</td>
+</tr>
+
+<tr>
+<td>Hypervisor</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Drivers</td>
+<td align="center">scsi_ep_front+bms-network-config</td>
+<td align="center">scsi_ep_front+bms-network-config+IB</td>
+<td align="center">scsi_ep_front+bms-network-config+IB+NVIDIA+CUDA</td>
+<td align="center">scsi_ep_front+bms-network-config+IB+NVIDIA+CUDA</td>
+</tr>
+
+<tr>
+<td>Flags</td>
+<td align="center">virtual_env_type=Ironic, __support_o2m</td>
+<td align="center">virtual_env_type=Ironic, __support_h2l</td>
+<td align="center">virtual_env_type=Ironic, __support_p1l</td>
+<td align="center">virtual_env_type=Ironic, __support_p2l</td>
+</tr>
+
+<tr>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>openSUSE 42.x</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 6</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 7</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">OTC3.0 *</td>
+<td align="center">OTC3.1 **</td>
+</tr>
+
+<tr>
+<td>Debian</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Fedora</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 16.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 16.04</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 18.04</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES11 SP4</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP1</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP2</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP3</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 6</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 7</td>
+<td align="center">X</td>
+<td align="center">OTC3.0 *</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 6</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 7</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Euler OS</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>Windows 2008 R2</td>
+<td align="center">X*</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2012 R2</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2016</td>
+<td align="center">X*</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2019</td>
+<td align="center">X*</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+
+<p>X* no __support_evs</p>
+
+<h2 id="gpu-flavors">GPU Flavors</h2>
+
+<table>
+<thead>
+<tr>
+<th>Image / Flavor</th>
+<th align="center">GPU optimized</th>
+<th align="center">GPU optimized II</th>
+<th align="center">GPGPU P100</th>
+<th align="center">GPGPU V100</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td align="center">g1</td>
+<td align="center">g2</td>
+<td align="center">p1</td>
+<td align="center">p2</td>
+</tr>
+
+<tr>
+<td>Hypervisor</td>
+<td align="center">XEN</td>
+<td align="center">Xen</td>
+<td align="center">KVM</td>
+<td align="center">KVM</td>
+</tr>
+
+<tr>
+<td>Drivers</td>
+<td align="center">xen+NVIDIA</td>
+<td align="center">xen+NVIDIA+ixgbevf</td>
+<td align="center">virtio+NVIDIA+CUDA</td>
+<td align="center">virtio+NVIDIA+CUDA</td>
+</tr>
+
+<tr>
+<td>Flags</td>
+<td align="center">__support_xen_gpu_type = M60_vGPU</td>
+<td align="center">__support_xen_gpu_type = M60_GPU</td>
+<td align="center">__support_kvm_gpu_type=P100</td>
+<td align="center">__support_kvm_gpu_type=V100</td>
+</tr>
+
+<tr>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>openSUSE 42.x</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 6</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 7</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">OTC3.0 **</td>
+<td align="center">revoked OTC3.1 **</td>
+</tr>
+
+<tr>
+<td>Debian</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">OTC3.0 **</td>
+<td align="center">revoked OTC3.1 **</td>
+</tr>
+
+<tr>
+<td>Fedora</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 16.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">OTC3.0 **</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 16.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">OTC3.0 **</td>
+<td align="center">OTC3.1 **</td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 18.04</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">OTC3.0 **</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES11 SP4</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP1</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP2</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP3</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 6</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 7</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 6</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 7</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Euler OS</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">OTC3.1 **</td>
+</tr>
+
+<tr>
+<td>Windows 2008 R2</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2012 R2</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2016</td>
+<td align="center">X</td>
+<td align="center">X</td>
+<td align="center"></td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>Windows 2019</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="high-performance">High Performance</h2>
+
+<table>
+<thead>
+<tr>
+<th>Image / Flavor</th>
+<th align="center">High performance I</th>
+<th align="center">High performance II</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td align="center">h1</td>
+<td align="center">h2</td>
+</tr>
+
+<tr>
+<td>Hypervisor</td>
+<td align="center">XEN</td>
+<td align="center">KVM</td>
+</tr>
+
+<tr>
+<td>Drivers</td>
+<td align="center">xen+ixgbevf</td>
+<td align="center">virtio+IB (Mellanox)</td>
+</tr>
+
+<tr>
+<td>Flags</td>
+<td align="center">__support_highperformance</td>
+<td align="center">__support_kvm_infiniband</td>
+</tr>
+
+<tr>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>openSUSE 42.x</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 6</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 7</td>
+<td align="center">X</td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>Debian</td>
+<td align="center">Debian 9</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Fedora</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 16.04</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 16.04</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 18.04</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES11 SP4</td>
+<td align="center">X</td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>SLES12 SP1</td>
+<td align="center">X</td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>SLES12 SP2</td>
+<td align="center">X</td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>SLES12 SP3</td>
+<td align="center">X</td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>Oracle 6</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 7</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 6</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 7</td>
+<td align="center">X</td>
+<td align="center">TBD</td>
+</tr>
+
+<tr>
+<td>Euler OS</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2008 R2</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2012 R2</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2016</td>
+<td align="center">X</td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2019</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="field-programmable-gate-array-fpga">Field Programmable Gate Array (FPGA)</h2>
+
+<table>
+<thead>
+<tr>
+<th>Image / Flavor</th>
+<th align="center">FPGA (field programmable gate array)</th>
+<th align="center">FPGA common (field programmable gate array)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td align="center">fp1</td>
+<td align="center">fp1c</td>
+</tr>
+
+<tr>
+<td>Hypervisor</td>
+<td align="center">KVM</td>
+<td align="center">KVM</td>
+</tr>
+
+<tr>
+<td>Drivers</td>
+<td align="center">TBD</td>
+<td align="center">TBD</td>
+</tr>
+
+<tr>
+<td>Flags</td>
+<td align="center">__support_kvm_fpga_type=VU9P</td>
+<td align="center">__support_kvm_fpga_type=VU9P_COMMON</td>
+</tr>
+
+<tr>
+<td></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>openSUSE 42.x</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 6</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>CentOS 7</td>
+<td align="center"></td>
+<td align="center">X</td>
+</tr>
+
+<tr>
+<td>Debian</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Fedora</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 14.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Community Ubuntu 16.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 16.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Standard Ubuntu 18.04</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES11 SP4</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP1</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP2</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>SLES12 SP3</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 6</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Oracle 7</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 6</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>RHEL 7</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Euler OS</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2008 R2</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2012 R2</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2016</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td>Windows 2019</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+
+<p>OTC3.0 *: <strong>c3/m3 flavors available with OTC3.0</strong></p>
+
+<p>OTC3.0 **: <strong>GPGPU flavors availabe with OTC3.0. Additional instructions to install the required software.</strong></p>
+
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-grow"></div><footer class="brand-footer" id="footer-short">
+    <div class="container">
+        <div class="row brand-footer-bar">
+            <div class="col col-lg-3 col-md-2 d-none d-md-block">
+                <div class="brand-logo">
+                    <a href="https://opentelekomcloud.github.io/imagefactory/">
+                        <img alt="Telekom Logo" src="https://opentelekomcloud.github.io/imagefactory/img/dt-logo.svg">
+                        <span class="sr-only">Telekom Logo</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col col-md-12 d-md-none text-center text-muted">
+                <div class="brand-footer-bar-text">© 2019 T-Systems International GmbH</div>
+            </div>
+            <div class="col col-lg-6 col-md-8 col-sm-12">
+                <ul class="nav brand-footer-nav brand-footer-nav-muted justify-content-center">
+                    <li>
+                        <a href="https://open-telekom-cloud.com/de/impressum">Imprint</a>
+                    </li>
+                    <li>
+                        <a href="https://open-telekom-cloud.com/de/kontakt">Contact</a>
+                    </li>
+                    <li>
+                        <a href="https://opentelekomcloud.github.io/privacy/">Privacy Statement</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col col-lg-3 col-md-12 d-none d-md-block text-lg-right text-md-center text-muted">
+
+                <div class="brand-footer-bar-text">©
+                    2019
+                    T-Systems International GmbH</div>
+            </div>
+        </div>
+    </div>
+</footer></body>
+
+</html>

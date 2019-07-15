@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8" />
+  <title>
+    November 2017 - OTC ImageFactory</title>
+
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <link rel="canonical" href="https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/11/" />
+  <meta
+    name="description"
+    content="Updated images provided on 2017-11-20-21. Major changes over previous versions:
+ RHEL/CentOS/OEL 6&#43;7:  Switch to SHA512 passwd hashing: all new user passwords are now generated with SHA512 and no more with MD5 algorithm.  RHEL/CentOS/OEL 6 and EulerOS:  add bash skeletons to root&rsquo;s home  SAPHANA images:  Add recommended network tuning for HANA  CentOS_7:  new cloud-init version 0.7.9   Updated images provided on 2017-11-15. Major changes over previous versions:"
+  /><meta name="robots" content="index, follow" /><meta content="#da532c" name="msapplication-TileColor">
+<meta name="msapplication-TileImage" content="/img/favicon/win8-tile-114x114.png">
+<meta name="msapplication-config" content="/img/favicon/ieconfig.xml">
+
+<link rel="apple-touch-icon" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/apple-touch-icon-180x180.png">
+
+<link rel="icon" sizes="192x192" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/android-chrome-192x192.png">
+
+<link rel="icon" type="image/png" sizes="16x16" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon-96x96.png">
+<link rel="shortcut icon" href="https://opentelekomcloud.github.io/imagefactory/img/favicon/favicon.ico"><link rel="stylesheet" href="https://opentelekomcloud.github.io/imagefactory/css/main.css" />
+
+  <script src="https://opentelekomcloud.github.io/imagefactory/js/jquery-3.4.1.min.js"></script>
+  <script src="https://opentelekomcloud.github.io/imagefactory/js/telekom-html-components.bundle.min.js"></script></head>
+<body id="top" class="d-flex flex-column"><div class="brandbar">
+    <div class="container">
+        <div class="brand-logo">
+            <img alt="Telekom Logo" src="https://opentelekomcloud.github.io/imagefactory/img/dt-logo.svg">
+            <span class="sr-only">Telekom Logo</span>
+        </div>
+        <div class="brand-claim">
+            <img alt="Brand Claim" src="https://opentelekomcloud.github.io/imagefactory/img/dt-claim.svg">
+            <span class="sr-only">Brand Claim</span>
+        </div>
+    </div>
+</div>
+
+<header class="navbar navbar-expand brand-navbar">
+    <nav class="brand-navbar-container container">
+        <button aria-controls="DocsMenu" aria-expanded="false" aria-label="Toggle docs navigation"
+            class="btn btn-brandbar collapsed d-md-none" data-open="brandnav" data-target="#DocsMenu" type="button">
+            <svg class="navbar-nav-svg" focusable="false" height="26" viewbox="0 0 29 26" width="29"
+                xmlns="http://www.w3.org/2000/svg">
+                <title>Menu</title>
+                <path d="M5 8h17M5 13h17M5 18h17" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+                    stroke="currentColor"></path>
+            </svg>
+        </button>
+
+        <a class="navbar-brand d-none d-md-inline-block" href="https://opentelekomcloud.github.io/imagefactory/" title="Go Home">OTC ImageFactory</a>
+
+        <div class="navbar-nav-scroll brandnav brandnav-lvl-container-1" id="DocsMenu">
+            <ul class="brandnav-lvl-1 navbar-nav brand-navbar-nav flex-column flex-md-row"><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/images/">Images</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/flavors/">Flavors</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/repositories/">Repositories</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://opentelekomcloud.github.io/imagefactory/releasenotes/">Release Notes</a>
+                </li><li class="nav-item nav-item-lvl-1">
+                    <a class="nav-link" href="https://techblog.otc-service.com">TechBlog</a>
+                </li></ul>
+        </div>
+    </nav>
+</header>
+    <div class="container">
+        <div class="row my-4">
+            <div class="col-12">
+                <section id="content"><article><header class="mb-3">
+    <h1 class="title">November 2017</h1>
+    <div class="small text-muted mt-2"><span class="post-date text-primary">
+            <time class="dt-published font-weight-bold"
+                datetime="2017-11-25 00:00:00 &#43;0000 UTC">25.11.2017</time>
+        </span>by
+        <span class="font-weight-bold">
+            Kurt Garloff
+        </span></div>
+
+</header><p>Updated images provided on 2017-11-20-21. Major changes over previous versions:</p>
+
+<ul>
+<li>RHEL/CentOS/OEL 6+7:
+
+<ul>
+<li>Switch to SHA512 passwd hashing: all new user passwords are now generated with SHA512 and no more with MD5 algorithm.</li>
+</ul></li>
+<li>RHEL/CentOS/OEL 6 and EulerOS:
+
+<ul>
+<li>add bash skeletons to root&rsquo;s home</li>
+</ul></li>
+<li>SAPHANA images:
+
+<ul>
+<li>Add recommended network tuning for HANA</li>
+</ul></li>
+<li>CentOS_7:
+
+<ul>
+<li>new cloud-init version 0.7.9</li>
+</ul></li>
+</ul>
+
+<p>Updated images provided on 2017-11-15. Major changes over previous versions:</p>
+
+<ul>
+<li><p>MS Patches of November 2017</p></li>
+
+<li><p>OTC Windows Self-Managed - Release 2017-11-15-0</p></li>
+
+<li><p>Windows Server 2008 R2</p>
+
+<ul>
+<li>2017-11 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4048957)</li>
+<li>2017-11 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4048960)</li>
+<li>Windows Malicious Software Removal Tool x64 - November 2017 (KB890830)</li>
+<li>Cumulative Security Update for Internet Explorer 11 for Windows Server 2008 R2 for x64-based Systems (KB4047206)</li>
+<li>2017-11 Security and Quality Rollup for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7 on Windows 7 and Server 2008 R2 for x64 (KB4049016)<br /></li>
+</ul></li>
+
+<li><p>Windows Server 2012 R2</p>
+
+<ul>
+<li>2017-11 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4048958)</li>
+<li>Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2, 2016 x64 Edition - November 2017 (KB890830)</li>
+<li>Cumulative Security Update for Internet Explorer 11 for Windows Server 2012 R2 (KB4047206)</li>
+<li>2017-11 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4048961)<br /></li>
+</ul></li>
+
+<li><p>Windows Server 2016</p>
+
+<ul>
+<li>2017-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4048953)</li>
+<li>Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2, 2016 x64 Edition - November 2017 (KB890830)</li>
+<li>2017-11 Update for Windows Server 2016 for x64-based Systems (KB4049065)</li>
+</ul></li>
+
+<li><p>XEN GPL driver: 3.0.144.590</p></li>
+
+<li><p>KVM UVP Vmtools: 2.5.0.102</p></li>
+
+<li><p>Intel SRIOV (High Performance ) driver :  Version 22.0, January 27, 2017</p></li>
+
+<li><p>NVIDIA vGPU driver: 369.71</p></li>
+
+<li><p>NVIDIA pGPU driver: 385.54</p></li>
+
+<li><p>Cloudbase-Init: 9.12</p></li>
+</ul>
+</article>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-grow"></div><footer class="brand-footer" id="footer-short">
+    <div class="container">
+        <div class="row brand-footer-bar">
+            <div class="col col-lg-3 col-md-2 d-none d-md-block">
+                <div class="brand-logo">
+                    <a href="https://opentelekomcloud.github.io/imagefactory/">
+                        <img alt="Telekom Logo" src="https://opentelekomcloud.github.io/imagefactory/img/dt-logo.svg">
+                        <span class="sr-only">Telekom Logo</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col col-md-12 d-md-none text-center text-muted">
+                <div class="brand-footer-bar-text">© 2019 T-Systems International GmbH</div>
+            </div>
+            <div class="col col-lg-6 col-md-8 col-sm-12">
+                <ul class="nav brand-footer-nav brand-footer-nav-muted justify-content-center">
+                    <li>
+                        <a href="https://open-telekom-cloud.com/de/impressum">Imprint</a>
+                    </li>
+                    <li>
+                        <a href="https://open-telekom-cloud.com/de/kontakt">Contact</a>
+                    </li>
+                    <li>
+                        <a href="https://opentelekomcloud.github.io/privacy/">Privacy Statement</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col col-lg-3 col-md-12 d-none d-md-block text-lg-right text-md-center text-muted">
+
+                <div class="brand-footer-bar-text">©
+                    2019
+                    T-Systems International GmbH</div>
+            </div>
+        </div>
+    </div>
+</footer></body>
+
+</html>

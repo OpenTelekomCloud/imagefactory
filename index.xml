@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OTC ImageFactory</title>
+    <link>https://opentelekomcloud.github.io/imagefactory/</link>
+    <description>Recent content on OTC ImageFactory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://opentelekomcloud.github.io/imagefactory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>July 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/07/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/07/</guid>
+      <description> new image available: Fedora 30  public as image: Standard_Fedora_30_latest supported otc flavors: https://imagefactory.otc.t-systems.com/flavor-list default user: linux   </description>
+    </item>
+    
+    <item>
+      <title>June 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/06/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/06/</guid>
+      <description>Microsoft Windows Server Patches of 2019 June (12th)
+ Windows Server 2008 R2 * Windows Malicious Software Removal Tool x64 - June 2019 (KB890830) * 2019-06 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4503292)
+ Windows Server 2012 R2 * Windows Malicious Software Removal Tool x64 - June 2019 (KB890830) * 2019-06 Cumulative Security Update for Internet Explorer 11 for Windows Server 2012 R2 for x64-based systems (KB4503259) * 2019-06 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4503290) * 2019-06 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4503276)</description>
+    </item>
+    
+    <item>
+      <title>May 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/05/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/05/</guid>
+      <description>Microsoft Windows Server Patches of 2019 May (15th)
+ Windows Server 2008 R2 * 2019-05 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4499164) * 2019-05 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4499175) * 2019-05 Security and Quality Rollup for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 7 and Server 2008 R2 for x64 (KB4499406) * Windows Malicious Software Removal Tool x64 - May 2019 (KB890830) * 2019-05 Security Only Update for .</description>
+    </item>
+    
+    <item>
+      <title>April 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/04/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/04/</guid>
+      <description>Microsoft Windows Server Patches of 2019 April (10th)
+ Windows Server 2008 R2 * 2019-04 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4493472) * Windows Malicious Software Removal Tool x64 - April 2019 (KB890830)
+ Windows Server 2012 R2 * 2019-04 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4493467) * 2019-04 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4493446) * 2019-04 Cumulative Security Update for Internet Explorer 11 for Windows Server 2012 R2 for x64-based systems (KB4493435) * Windows Malicious Software Removal Tool x64 - April 2019 (KB890830)</description>
+    </item>
+    
+    <item>
+      <title>March 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/03/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/03/</guid>
+      <description>new Images: * Enterprise_Windows_STD_2019_CORE_KVM * Enterprise_Windows_STD_2019_BMS
+ Microsoft Windows Server Patches of 2019 March (13th)
+ Windows Server 2008 R2 * 2019-03 Servicing Stack Update for Windows Server 2008 R2 for x64-based Systems (KB4490628) * 2019-03 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4489885) * 2019-03 Security Update for Windows Server 2008 R2 for x64-based Systems (KB4474419) * 2019-03 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4489878) * 2019-03 Cumulative Security Update for Internet Explorer 11 for Windows Server 2008 R2 for x64-based systems (KB4489873) * Windows Malicious Software Removal Tool x64 - March 2019 (KB890830)</description>
+    </item>
+    
+    <item>
+      <title>February 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/03/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/03/</guid>
+      <description>new Images: * Enterprise_Windows_STD_2019_KVM
+ Microsoft Windows Server Patches of 2019 February (13th)
+ Windows Server 2008 R2 * Windows Malicious Software Removal Tool x64 - February 2019 (KB890830)
+* 2019-02 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4486563)
+* 2019-02 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4487121)</description>
+    </item>
+    
+    <item>
+      <title>January 2019</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/01/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2019/01/</guid>
+      <description>new image availabe: Standard_Fedora_29_latest
+ MS Patches of 2019 Januar (09th)
+ Windows Server 2008 R2
+ 2019-01 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4480960) 2019-01 Cumulative Security Update for Internet Explorer 11 for Windows Server 2008 R2 for x64-based systems (KB4480965) 2019-01 Security and Quality Rollup for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4481480) 2019-01 Security Only Update for .</description>
+    </item>
+    
+    <item>
+      <title>December 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/12/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/12/</guid>
+      <description>CentOS 7.6 available as Standard_CentOS_7_latest now RHEL 7.6 available as Enterprise_RedHat_7_latest now Oracle Linux 7.6 available as Enterprise_OracleLinux_7_latest now
+ Ubuntu 16.04 * preconfigure network interfaces for enp4s network cards used in KVM flavors like m3.
+ MS Patches of 2018 December (11th)
+ Windows Server 2008 R2
+ Update for Windows Server 2008 R2 for x64-based Systems (KB4468323) Windows Malicious Software Removal Tool x64 - December 2018 (KB890830) 2018-12 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4471318) 2018-12 Security and Quality Rollup for .</description>
+    </item>
+    
+    <item>
+      <title>November 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/11/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/11/</guid>
+      <description>Debian 9
+ each created vm creates its own unique /etc/machine-id at first boot  Debian 9.6 released (Standard_Debian_9_latest)
+ more information for release changes: https://www.debian.org/News/2018/20181110  MS Patches of 2018 November (14th)
+ Windows Server 2008 R2
+ 2018-11 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4467106) 2018-11 Cumulative Security Update for Internet Explorer 11 for Windows Server 2008 R2 for x64-based systems (KB4466536) Windows Malicious Software Removal Tool x64 - November 2018 (KB890830) 2018-11 Security and Quality Rollup for .</description>
+    </item>
+    
+    <item>
+      <title>October 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/10/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/10/</guid>
+      <description>Updated Linux images provided on 2018-31-10:
+ Ubuntu-18.04: Fix wrong repository configuration using Ubuntu 18.04 with BMS flavor
+ MS Patches of 2018 October
+ Windows Server 2008 R2
+ 2018-10 Update for Windows Server 2008 R2 for x64-based Systems (KB3177467) 2018-10 Cumulative Security Update for Internet Explorer 11 for Windows Server 2008 R2 for x64-based systems (KB4462949) Windows Malicious Software Removal Tool x64 - October 2018 (KB890830) 2018-10 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4462923) 2018-10 Security and Quality Rollup for .</description>
+    </item>
+    
+    <item>
+      <title>September 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/09/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/09/</guid>
+      <description>September 2018:
+Updated Linux images provided on 2018-09-20 &amp;ndash; 25. Changes:
+CentOS Images:
+ new support for V100 flavors with NVIDEA GPGPU and Cuda support  flavors: p2.2xlarge.8 p2.4xlarge.8 p2.8xlarge.8 physical.p2.large   Updated Linux images provided on 2018-09-20 &amp;ndash; 25. Changes:
+SUSE Images:
+ Official public image for SLES15 (SP0) and openSUSE15, both using python3 only for preinstalled tools. Migrate OBS repositories from home:garloff:OTC to Cloud:OTC:xxx (openSUSE15, openSUSE42, SLES15, SLES12SP3).</description>
+    </item>
+    
+    <item>
+      <title>August 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/08/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/08/</guid>
+      <description>August 2018:
+Updated Linux images provided on 2018-08-28 &amp;ndash; 30. Changes:
+ Pending EulerOS fixes released for L1TF/Foreshadow-NG. All SUSE images, CentOS7, EulerOS2: Ensure we have a unique machine-id. Include kata containers for secure containerization in CCE_EulerOS_2 and openSUSE_42_Docker.  Updated Linux images provided on 2018-08-17 &amp;ndash; 22. Changes:
+ All images (except EulerOS): Fixes for CVE-2018-3620, CVE-2018-3646 (L1TF/Foreshadow-NG). Also includes fixes for CVE-2018-5390 and -5391 where not provided before.  Updated Linux images provided on 2018-08-10.</description>
+    </item>
+    
+    <item>
+      <title>July 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/07/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/07/</guid>
+      <description>Updated Windows images provided on 2018-07-20. Changes:
+MS Patches of 2018 July
+ Windows Server 2008 R2
+ Update for Windows Server 2008 R2 x64 Edition (KB4130978) Windows Malicious Software Removal Tool x64 - July 2018 (KB890830) 2018-07 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 7 and Server 2008 R2 for x64 (KB4340004) 2018-07 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4338823) 2018-07 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4338818) 2018-07 Security and Quality Rollup for .</description>
+    </item>
+    
+    <item>
+      <title>June 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/06/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/06/</guid>
+      <description>Updated Linux images provided on 2018-06-05. Changes:
+ CentOS-7  Security fix for Spectre Variant-4 (CVE-2018-3639)    new version Debian 4.9.65-3+deb9u2
+see: https://imagefactory.otc.t-systems.com/Blog-Review/SpecExLeak/Spectre_3a_4.html
+ Updated Linux images provided on 2018-06-01. Changes:
+New Ubuntu images released
+ Standard_Ubuntu_14.04_latest Standard_Ubuntu_16.04_latest  Replaces Community Ubuntu images, which are no longer supported.
+Community_Ubuntu_14.04_TSI_latest replaced by: Standard_Ubuntu_14.04_latest Community_Ubuntu_16.04_TSI_latest replaced by: Standard_Ubuntu_16.04_latest  More information about timeline and technical changes: https://imagefactory.otc.t-systems.com/Blog-Review/UbuntuAnnounce.html</description>
+    </item>
+    
+    <item>
+      <title>May 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/05/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/05/</guid>
+      <description>Updated Linux images provided on 2018-05-16. Changes:
+ All SUSE images and EulerOS-2: Updated the injected OTC Build Service Key as it has been extended in validity.  </description>
+    </item>
+    
+    <item>
+      <title>April 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/04/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/04/</guid>
+      <description>Updated images provided on 2018-04-13. Major changes over previous versions:
+Linux
+ All: Include all updates from the Linxu distributors
+ SLES 11 and SLES 12:
+ Updated bms-network-setup to handle scenarios, where network devices are ordered differently than assumed in network_config.json but can not be renamed (due to conflicting names). This fixes SLES12 on physical.h2.large. SAP images: Switch clocksource to tsc on xen flavors. Add serial login for SLES11 BMS.</description>
+    </item>
+    
+    <item>
+      <title>March 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/03/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/03/</guid>
+      <description>Updated images provided on 2018-03-15. Major changes over previous versions:
+Linux - New image Standard_Fedora_27_latest
+ Debian-9
+ add packages kbd and console-data (to enable &amp;lsquo;sudo loadkeys [de,us]&amp;lsquo;)  Redhat and Oracle images with retpoline kernel
+ Oracle7 BMS image available
+ Ubuntu 16
+ includes CVE-2017-16995   Windows Self-Managed - Release 2018-03-14-0 - added March 2018 MS Patches
+ Windows Server 2008 R2  Update for Windows Server 2008 R2 x64 Edition (KB4074837) 2018-03 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4088875) Cumulative Security Update for Internet Explorer 11 for Windows Server 2008 R2 for x64-based Systems (KB4089187) Windows Malicious Software Removal Tool x64 - March 2018 (KB890830)  Windows Server 2012 R2  Windows Malicious Software Removal Tool x64 - March 2018 (KB890830) 2018-03 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4088876) 2018-03 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4088879) Cumulative Security Update for Internet Explorer 11 for Windows Server 2012 R2 (KB4089187)  Windows Server 2016</description>
+    </item>
+    
+    <item>
+      <title>February 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/02/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/02/</guid>
+      <description>All Linux images received significant work on the bootup speed:
+ The platform got a better performing Metadata Service (MDS) The network start scripts were tuned (wait times, waiting for mds, &amp;hellip;) cloud-init &amp;gt; 0.7.6 received a patch removing unnecessary retries on 404 The generation of an optimized initrd on the kiwi built images was pushed into the background  Updated SUSE images provided on 2018-02-15. Major changes over previous versions:</description>
+    </item>
+    
+    <item>
+      <title>January 2018</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/01/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2018/01/</guid>
+      <description>Security Alert Meltdown and Spectre: https://imagefactory.otc.t-systems.com/Blog-Review/SpecExLeak/  Updated images provided on 2018-01-26. Major changes over previous versions:
+ Ubuntu-14, Ubuntu-16
+ Security fix for Spectre Variant-1 (CVE-2017-5753)   new version Ubuntu-14 with kernel 3.13.0-141-generic #190 new version Ubuntu-16 with kernel 4.4.0-112-generic #135
+  Updated Windows images provided on 2018-01-12. Major changes over previous versions:
+ OTC Windows Self-Managed - Release 2018-01-11-0
+ registry keys to enable the mitigations on the server against speculative execution side-channel vulnerabilities are set: &amp;gt;HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management, FeatureSettingsOverride, 0 &amp;gt;HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management, FeatureSettingsOverrideMask, 3 &amp;gt;`HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft\Windows NT\CurrentVersion\Virtualization MinVmVersionForCpuBasedMitigations, 1.</description>
+    </item>
+    
+    <item>
+      <title>December 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/12/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/12/</guid>
+      <description>Updated images provided on 2017-12-15. Major changes over previous versions:
+ Linux images
+ All upstream updates, as usual Use bms-network-setup.py for creating ifcfg-* from network_data.json on Bare Metal. Make local_port_range an even number Boot time optimizations (especially SUSE12/42) Avoid cloud-init-wait-mds stalling on DNS requests  CentOS-7
+ kmod-20-15.el7_4.6 is broken (does break override statements), resulting in Inifiniband drivers no longer loading. Fix by downgrading to el7_4.4 until RH fixes this.</description>
+    </item>
+    
+    <item>
+      <title>November 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/11/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/11/</guid>
+      <description>Updated images provided on 2017-11-20-21. Major changes over previous versions:
+ RHEL/CentOS/OEL 6+7:  Switch to SHA512 passwd hashing: all new user passwords are now generated with SHA512 and no more with MD5 algorithm.  RHEL/CentOS/OEL 6 and EulerOS:  add bash skeletons to root&amp;rsquo;s home  SAPHANA images:  Add recommended network tuning for HANA  CentOS_7:  new cloud-init version 0.7.9   Updated images provided on 2017-11-15. Major changes over previous versions:</description>
+    </item>
+    
+    <item>
+      <title>October 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/10/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/10/</guid>
+      <description>Updated images provided on 2017-10-26. Major changes over previous versions:
+ Fedora26  new Standard_Fedora_26_latest (replaced broken Standard_Fedora_26_20171018_0 with Standard_Fedora_26_20171021_0)   Updated images provided on 2017-10-23. Major changes over previous versions:
+ RHEL7:
+ sshd_config: add curve25519-sha256@libssh.org as KexAlgorithm  RHEL6:
+ new release version 6.9 available as RHEL_6_latest image rename image and skip the minor version number   Updated images provided on 2017-10-18. Major changes over previous versions:</description>
+    </item>
+    
+    <item>
+      <title>September 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/09/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/09/</guid>
+      <description>Updated images provided on 2017-09-25. Major changes over previous versions:
+ New images: openSuSE-42.3 Docker flavor, RHEL/CentOS/OEL 7.4 Add kmod-ixgbevf216 for CentOS-6 and OEL-6 Include nfs-utils for RHEL6/7 family add processor.max_cstate=1 as req by Huawei heatclient-1.5.2 tune cloud-init for lower timeouts but more retries Fix: Only start maxout-balloon on XEN  </description>
+    </item>
+    
+    <item>
+      <title>July 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/07/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/07/</guid>
+      <description>Updated images provided on 2017-05-17. Major changes over previous versions:
+ New images: Debian 9 (stretch) Microsoft Patches  Windows Server 2008 R2  Update for Windows Server 2008 R2 for x64-based Systems (KB4020322) Windows Malicious Software Removal Tool x64 - July 2017 (KB890830) 2017-07 Security Only Quality Update for Windows Server 2008 R2 for x64-based Systems (KB4025337) 2017-07 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4025341)  Windows Server 2012 R2  Update for Windows Server 2012 R2 (KB4020322) Windows Malicious Software Removal Tool for Windows 8, 8.</description>
+    </item>
+    
+    <item>
+      <title>May 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/05/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/05/</guid>
+      <description>Updated images provided on 2017-05-19. Major changes over previous versions:
+ Supports nova serial console log on all images (was only enabled on some; nova console-log is supported on KVM based h2 flavors in OTC) Update from libs3-2 to libs3-4, supporting multipart up/download. Root disk mounted by label (thus working across hypervisors and bare metal) Console login hint changed to &amp;ldquo;Initial console login&amp;rdquo; to avoid confusion openSUSE42 + SLES12: new OpenStack newton python client tools Latest maintenance and security updates from all distros, as always &amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>April 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/04/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/04/</guid>
+      <description>Updated images provided on 2017-04-06. Major changes over previous versions:
+ Ubuntu images, vms starts now with preconfigured otc internal repositories. No internet access required for updating ubuntu vms.  </description>
+    </item>
+    
+    <item>
+      <title>February 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/03/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/03/</guid>
+      <description>Updated images provided on 2017-02-27. Major changes over previous versions:
+ all new linux images from now on are configured to use cloud-init vendor-data (except for ubuntu) vendor-data configures all images from ImageFactory with package repositories private images which are not based on an original ImageFactory image are not affected Removed all internal package repositories from the images. Images contain only repofiles with disabled public package repositories New versions: Windows 2016, Debian 8.</description>
+    </item>
+    
+    <item>
+      <title>March 2017</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/03/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2017/03/</guid>
+      <description>Updated images provided on 2017-03-01. Major changes over previous versions:
+ Debian 8.7 fix issues with cloud-init and generated random password for console login  </description>
+    </item>
+    
+    <item>
+      <title>December 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/12/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/12/</guid>
+      <description>Updated images provided on 2016-12-21. Major changes over previous versions:
+ Normal images are now built with 4GiB root filesystem. They would still easily fit into 2GiB, but as they are registered with 4GiB min_disk size, they would be resized by cloud-init (growpart, resizefs), which we can now safe for the defaults. Images now have a default RANDOM password for the default (linux) user. It is displayed as login hint for noVNC emergency login, but not visible to unprivileged users.</description>
+    </item>
+    
+    <item>
+      <title>November 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/11/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/11/</guid>
+      <description>Updated images provided on 2016-11-17. The major changes to the previous versions are:
+ Images include the latest updates from cw46 Add OpenStack profile /etc/skel/.ostackrc CentOS, OEL: add python tools (nova, glance, neutron, &amp;hellip;)  </description>
+    </item>
+    
+    <item>
+      <title>October 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/10/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/10/</guid>
+      <description>Updated images provided on 2016-10-26. The major changes to the previous versions are:
+ NEW images: Debian 8.6 and Fedora 24 Images include the latest updates from cw42/43 Network tuning according to findings Finalized net tuning for SLES11_SP4_SAPHANA Do NOT pin kernel on SLES11. Fix swap in firstboot. Ensure that cloud-init config is ran before sshd. openstackclient-1.5.0  </description>
+    </item>
+    
+    <item>
+      <title>September 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/10/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/10/</guid>
+      <description>Updated images (_latest) provided on 2016-10-04. The major changes to the previous versions are:
+ Images include the latest updates from 2016-09-30 Updated uvp-monitor Timezone no longer preconfigured for Europe but default UTC Set parameter back to default net.ipv4.tcp_timestamps=1  Updated images provided on 2016-09-08. The major changes to the previous versions are:
+ Images include the latest updates from cw36 Timezone no longer preconfigured for Europe but default UTC. Pass timezone: Europe/Amsterdam in user meta-data to set CET/CEST timezone.</description>
+    </item>
+    
+    <item>
+      <title>July 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/07/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/07/</guid>
+      <description>Updated images provided on 2016-07-25. The major changes to the previous versions are:
+ Images include the latest updates from cw29 cloud-init enablement: Set preserve_hostname: false on all images (as the hostname is now coming via metadata and no longer from Revert openSUSE42.1 cloud-init preinitialization CentOS-6.8 added (upgrade from 6.7).  </description>
+    </item>
+    
+    <item>
+      <title>May 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/05/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/05/</guid>
+      <description>Updated images provided at 2016-05-30. The major changes to the previous versions are:
+ Images include the latest fixes from cw21 Changed SSHD Config: AllowAgentForwarding=yes For CentOS and OracleLinux: disable requiretty in /etc/sudoers openSUSE42.1 cloud-init preinitialization to avoid double instance-identity resulting in overwritten ssh host key on second boot.  </description>
+    </item>
+    
+    <item>
+      <title>April 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/04/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/04/</guid>
+      <description>Updated images provided at 2016-04-21. The major changes to the previous versions are:
+ New uvp-monitor version included Images are build from including the latest fixes from 2016-04-20 Root PW injection now working for OracleLinux, SLES12 and openSUSE (workaround solution introduced) Changes to cloud-init: keep hostname of Nova (like listed in the dashboard)  </description>
+    </item>
+    
+    <item>
+      <title>March 2016</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/03/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/releasenotes/2016/03/</guid>
+      <description>First images published with the launch at 2016-03-14 for the following distributions:
+ openSUSE 42.1 (JeOS = Just Enough OS and Docker flavor) SLES11 SP4 SLES12 SP1 CentOS 6.7 CentOS 7.2 Oracle Linux 6.7 Oracle Linux 7.2  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/centos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/centos/</guid>
+      <description>CentOS Images     getImages(&#34;CentOS&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/oracle/</guid>
+      <description>Oracle Linux Images     getImages(&#34;OEL&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/redhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/redhat/</guid>
+      <description>Red Hat Enterprise Linux Images Available RedHat Images We have dropped minor numbers for all distributions except SLES. This is because installing all maintenance updates for most distributions automatically implies moving to the next minor version &amp;ndash; there is no possibility to stay on an old minor version and still have full maintenance, as there are no parallel maintenance streams per major version. (The only exception is SLES, where old service packs are maintained in an own stream in parallel to the latest for a limited amount of time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/suse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/suse/</guid>
+      <description>SUSE Images     getImages(&#34;openSUSE&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/windows/</guid>
+      <description>Windows Images Windows Server Image Content The Windows Server Images for OTC are build based on the Microsoft Standard ISO images
+It is a default OS installation with:
+ System disk of min 40 GB Drivers for XEN, KVM, GPU (NVIDIA), BMS (Intel Chipset Drivers) RDP enabled latest Microsoft quality rollups and security patches timezone of OTC platform time synchronization with ntp server of OTC public service zone German and English keyboard Couldbase-Init agent installation and sysprep started  During server startup server configuraiton is finished:</description>
+    </item>
+    
+    <item>
+      <title>CoreOS Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/coreos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/coreos/</guid>
+      <description>CoreOS Images     getImages(&#34;CoreOS&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Debian Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/debian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/debian/</guid>
+      <description>Debian Images     getImages(&#34;Debian&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>EulerOS Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/euleros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/euleros/</guid>
+      <description>EulerOS Images     getImages(&#34;EulerOS&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Fedora Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/fedora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/fedora/</guid>
+      <description>Fedora Images     getImages(&#34;Fedora&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Flavors</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/flavors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/flavors/</guid>
+      <description>Flavors Common Flavors    Image / Flavor Normal,Compute, Memory optimized I Normal,Compute Memory optimized II, GP KVM Large Memory Disk intensive SAPHANA Large Memory      s1,c1,c2,m1 c3 m2, s2, m3, d3 e1 d1 e2 e3   Hypervisor Xen KVM KVM Xen Xen Xen KVM   Drivers xen=xen-classic or xen-pvops virtio virtio xen xen+ixgbevf xen+ixgbevf+xen-scsi virtio   Flags __support_xen __support_kvm __support_kvm __support_largememory __support_diskintensive __support_xen_hana __support_largememory, ___support_kvm_hana             openSUSE 42.</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/</guid>
+      <description> Images    Debian Based Red Hat Based SUSE Based Others     Debian CentOS SUSE CoreOS   Kali Linux (beta) EulerOS  Fedora   Ubuntu Oracle Linux  Windows    Red Hat      Open Telekom Cloud OBS Image PGP Key  -----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v2 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 ERSUbi/rQrYK/ybtEA== =bOQk -----END PGP PUBLIC KEY BLOCK-----  </description>
+    </item>
+    
+    <item>
+      <title>Kali Linux Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/kali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/kali/</guid>
+      <description>Kali Linux Images     getImages(&#34;Kali&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+    <item>
+      <title>Repositories</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/repositories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/repositories/</guid>
+      <description>OTC Package Repositories Oracle Linux Server 6.10 http://smt01-suse.otc-service.com/repo/RPMMD/otc_centos6/
+CentOS 7.2 http://smt01-suse.otc-service.com/repo/RPMMD/centos7_std/
+6.10 http://smt01-suse.otc-service.com/repo/RPMMD/otc_centos6/
+6.8 http://smt01-suse.otc-service.com/repo/RPMMD/otc_centos6/
+7.5 http://smt01-suse.otc-service.com/repo/RPMMD/centos7_newkernel/
+http://smt01-suse.otc-service.com/repo/RPMMD/centos7_std/
+7.4 http://smt01-suse.otc-service.com/repo/RPMMD/centos7_newkernel/
+http://smt01-suse.otc-service.com/repo/RPMMD/centos7_std/
+7.3 http://smt01-suse.otc-service.com/repo/RPMMD/centos7_newkernel/
+http://smt01-suse.otc-service.com/repo/RPMMD/centos7_std/
+7.6 http://smt01-suse.otc-service.com/repo/RPMMD/centos7_newkernel/
+http://smt01-suse.otc-service.com/repo/RPMMD/centos7_std/
+6.9 http://smt01-suse.otc-service.com/repo/RPMMD/otc_centos6/
+EulerOS 2.0 http://smt01-suse.otc-service.com/repo/RPMMD/katacontainers_CentOS_7/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_centos7/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_drivers_euler23/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_centos7/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_extra_rhel7/
+http://smt01-suse.otc-service.com/repo/RPMMD/euleros_2/
+Fedora 25 http://smt01-suse.otc-service.com/repo/RPMMD/otc_fedora24/
+29 http://smt01-suse.otc-service.com/repo/RPMMD/fedora29/
+http://smt01-suse.otc-service.com/repo/RPMMD/fedora29_updates/
+28 http://smt01-suse.otc-service.com/repo/RPMMD/otc_fedora28/
+27 http://smt01-suse.otc-service.com/repo/RPMMD/otc_fedora27/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_fedora24/
+24 http://smt01-suse.otc-service.com/repo/RPMMD/otc_fedora24/
+SLES 12.3 http://smt01-suse.otc-service.com/repo/RPMMD/openstack_rocky_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_climitaka_python_sle12sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_climitaka_sle12sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_cliqueens_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_drivers_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_sles12sp3_update/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_ansible_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_extra_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_openstack_sle12_sp4/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/otc_tools_slepython_sle12_sp3/
+http://smt01-suse.otc-service.com/repo/RPMMD/SLE-Module-Containers12-Pool/
+http://smt01-suse.otc-service.com/repo/RPMMD/SLE-Module-Containers12-Updates/
+http://smt01-suse.otc-service.com/repo/RPMMD/SLE-Module-HPC12-Pool/
+http://smt01-suse.otc-service.com/repo/RPMMD/SLE-Module-HPC12-Updates/
+http://smt01-suse.otc-service.com/repo/RPMMD/SLES12-SP3-Pool/
+http://smt01-suse.otc-service.com/repo/RPMMD/SLES12-SP3-Updates/</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Images</title>
+      <link>https://opentelekomcloud.github.io/imagefactory/images/ubuntu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opentelekomcloud.github.io/imagefactory/images/ubuntu/</guid>
+      <description>Ubuntu Images     getImages(&#34;Ubuntu&#34;.split(&#34;,&#34;));   #imagebrowser .ib-content { max-height: 30em; overflow: auto; } #imagebrowser .ib-header, #imagebrowser .ib-folder, #imagebrowser .ib-file { display: flex; border-bottom: 1px solid rgba(0, 0, 0, 0.1); } #imagebrowser .ib-folder:hover, #imagebrowser .ib-file:hover { display: flex; background: rgba(0, 0, 0, 0.05); } #imagebrowser .ib-folder { cursor: pointer; } #imagebrowser .ib-folder-icon { height: 0.8em; margin-bottom: 0.2em; transition: transform 100ms linear; } #imagebrowser .ib-folder-icon.ib-open { transform: rotate(90deg); } #imagebrowser .</description>
+    </item>
+    
+  </channel>
+</rss>
